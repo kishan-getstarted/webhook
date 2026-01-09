@@ -1,0 +1,19 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "main": "app.js",
+ "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishan-getstarted/webhook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishan-getstarted/webhook/issues"
+  },
+  "homepage": "https://github.com/kishan-getstarted/webhook#readme",
+  "description": ""
+}
